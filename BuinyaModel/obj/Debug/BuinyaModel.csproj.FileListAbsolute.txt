@@ -1,0 +1,6 @@
+E:\VSworkspace\Buinya\BuinyaModel\bin\Debug\BuinyaModel.dll
+E:\VSworkspace\Buinya\BuinyaModel\bin\Debug\BuinyaModel.pdb
+E:\VSworkspace\Buinya\BuinyaModel\obj\Debug\BuinyaModel.csprojResolveAssemblyReference.cache
+E:\VSworkspace\Buinya\BuinyaModel\obj\Debug\BuinyaModel.csproj.CoreCompileInputs.cache
+E:\VSworkspace\Buinya\BuinyaModel\obj\Debug\BuinyaModel.dll
+E:\VSworkspace\Buinya\BuinyaModel\obj\Debug\BuinyaModel.pdb
